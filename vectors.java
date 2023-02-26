@@ -99,7 +99,7 @@ public class Vector3D {
         System.out.println(unitVector.x+" "+ unitVector.y+" "+unitVector.z); // Unit vectors
         System.out.println(projectObject.x+" "+ projectObject.y+" "+projectObject.z); // projection of a on b
         System.out.println(crossObject.x+" "+crossObject.y+" "+crossObject.z); // cross product
-        System.out.println("The status of linear Independence of your vectors is "+linear_ind_obj); // check if 2 vectors are linear independence
+        System.out.println("The status of linear Independence of your vectors is "+linear_ind_obj); // check if 2 vectors are linear independent
 
     }
 }
